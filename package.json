@@ -1,0 +1,16 @@
+{
+  "name": "commitwiz",
+  "version": "1.0.0",
+  "description": "AI-powered git commit message generator. Stage your changes, run commitwiz, get perfect commit messages.",
+  "main": "index.js",
+  "bin": {
+    "commitwiz": "./bin/commitwiz.js"
+  },
+  "keywords": ["git", "commit", "ai", "openai", "developer-tools", "cli"],
+  "author": "kszongic",
+  "license": "MIT",
+  "dependencies": {},
+  "engines": {
+    "node": ">=18"
+  }
+}
